@@ -63,4 +63,4 @@ jobs:
           app-name: 'mahetechweb'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9ECC60AA1E1E4FA09C9E5FB63EBDFDEC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35ECD8237A9948D7BF773588EA1D52CB }}
